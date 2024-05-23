@@ -1,0 +1,31 @@
+Dependencies for Project 'stmachine', Target 'Target 1': (DO NOT MODIFY !)
+F (.\GLCD_SPI_STM32.c)(0x6622E2CA)(--c99 --gnu -c --cpu Cortex-M3 -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork --split_sections-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\ST\STM32F10x-D__UVISION_VERSION="525"-o .\objects\glcd_spi_stm32.o --omf_browse .\objects\glcd_spi_stm32.crf --depend .\objects\glcd_spi_stm32.d)
+I (C:\Keil_v5\ARM\INC\ST\STM32F10x\stm32f10x_cl.h)(0x559D97C0)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cm3.h)(0x559DA26A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F83FE)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h)(0x559DA26A)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h)(0x559DA26A)
+I (C:\Keil_v5\ARM\INC\ST\STM32F10x\system_stm32f10x_cl.h)(0x559D97C0)
+I (GLCD.h)(0x6622E2CB)
+I (Font_6x8_h.h)(0x6622E2C9)
+I (Font_16x24_h.h)(0x6622E2CA)
+F (.\IRQ.c)(0x6622E2B8)(--c99 --gnu -c --cpu Cortex-M3 -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork --split_sections-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\ST\STM32F10x-D__UVISION_VERSION="525"-o .\objects\irq.o --omf_browse .\objects\irq.crf --depend .\objects\irq.d)
+F (.\statemachine.c)(0x662C2B5B)(--c99 --gnu -c --cpu Cortex-M3 -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork --split_sections-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\ST\STM32F10x-D__UVISION_VERSION="525"-o .\objects\statemachine.o --omf_browse .\objects\statemachine.crf --depend .\objects\statemachine.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x599F83FC)
+I (C:\Keil_v5\ARM\INC\ST\STM32F10x\stm32f10x_cl.h)(0x559D97C0)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cm3.h)(0x559DA26A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F83FE)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h)(0x559DA26A)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h)(0x559DA26A)
+I (C:\Keil_v5\ARM\INC\ST\STM32F10x\system_stm32f10x_cl.h)(0x559D97C0)
+I (GLCD.h)(0x6622E2CB)
+I (C:\Keil_v5\ARM\ARMCC\include\math.h)(0x599F83FE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x599F83FC)
+F (.\system_stm32f10x_cl.c)(0x6622E2CA)(--c99 --gnu -c --cpu Cortex-M3 -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork --split_sections-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\ST\STM32F10x-D__UVISION_VERSION="525"-o .\objects\system_stm32f10x_cl.o --omf_browse .\objects\system_stm32f10x_cl.crf --depend .\objects\system_stm32f10x_cl.d)
+I (C:\Keil_v5\ARM\INC\ST\STM32F10x\stm32f10x_cl.h)(0x559D97C0)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cm3.h)(0x559DA26A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F83FE)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h)(0x559DA26A)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h)(0x559DA26A)
+I (C:\Keil_v5\ARM\INC\ST\STM32F10x\system_stm32f10x_cl.h)(0x559D97C0)
+F (.\startup_stm32f10x_cl.s)(0x6622E2CA)(--cpu Cortex-M3 --pd "__EVAL SETA 1" -g --apcs=interwork --pd "__MICROLIB SETA 1"-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\ST\STM32F10x--pd "__UVISION_VERSION SETA 525"--list .\listings\startup_stm32f10x_cl.lst --xref -o .\objects\startup_stm32f10x_cl.o --depend .\objects\startup_stm32f10x_cl.d)
