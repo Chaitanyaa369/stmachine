@@ -1,4 +1,5 @@
 ARM MCBSTM32C Finite State Machine with timers and interrupts
+
 This project illustrates the behavior of a finite state machine using timers and interrupts. We use the case of a Mealy machine. The Mealy machine is a finite state machine whose output values are determined both by its current state and the current inputs.
 
 Finite state machine is created to control a toy car’s servomotor and the 08 LEDs using the ARM board. The toy car has 4 gears: Neutral – Gear 1 -­‐ Gear 2 -­‐ Gear 3 – Gear 4
